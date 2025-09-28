@@ -19,7 +19,7 @@ dependencies {
 ```
 
 - Connect your device with USB-cable
-- Active the Developer mode and Install mode in your phone settings
+- Activate the Developer mode and Install mode in your phone settings
 - Install APK:
 
 ```bash
