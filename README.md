@@ -2,10 +2,9 @@ The sound file was taken here: https://opengameart.org/content/picked-coin-echo-
 
 Based on the info: https://gist.github.com/madebr/3563a41ec9d287b6754c5fe764f56a1c?permalink_comment_id=5776785#gistcomment-5776785
 
-- [Download libs](https://www.dropbox.com/scl/fi/90wkqzomm61s0lhmqcume/sdl-libs-and-box2dv3-v1.0.zip?rlkey=h8heed2gln48lfdh2jygd6ich&st=chgdwttl&raw=1)
 - Download [Android (SDK, NDK and so on)](https://www.mediafire.com/file/zt5n2q5hu70u94g/Android.zip/file)
 - Install CMake and JDK. I used [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-
+- [Download libs](https://www.dropbox.com/scl/fi/90wkqzomm61s0lhmqcume/sdl-libs-and-box2dv3-v1.0.zip?rlkey=h8heed2gln48lfdh2jygd6ich&st=chgdwttl&raw=1)
 - Save libs somewhere on your computer and changes paths in the `android-project/app/libs` folder:
 
 ```
